@@ -1,3 +1,7 @@
-var main = document.getElementById("main");
-main.innerHTML = "Hello, JS!";
+document.body.onclick = function (event) {
+  console.log('user clicked');
+};
 
+document.body.onkeydown = function (event) {
+  console.log('user pressed key');
+};

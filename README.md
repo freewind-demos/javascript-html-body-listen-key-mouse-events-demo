@@ -1,6 +1,9 @@
-Js Hello World Demo
-===================
+JavaScript HTML "body" Listen Key Mouse Events Demo
+===================================================
 
-Open `index.html` in your browser.
+```
+npm install
+npm run demo
+```
 
-You will see "Hello, JS!" on the page.
+Note: tested in IE11.

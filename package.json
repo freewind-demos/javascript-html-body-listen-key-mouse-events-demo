@@ -1,4 +1,9 @@
 {
-  "dependencies": {
+  "scripts": {
+    "demo": "http-server . -c-1 -o"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "http-server": "0.11.1"
   }
 }
